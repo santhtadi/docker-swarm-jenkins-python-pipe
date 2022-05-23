@@ -5,4 +5,4 @@ ADD main.py .
 
 RUN python3 -m pip install numpy
 
-CMD [ "python3" "./main.py" ]
+CMD [ "python3", "./main.py" ]
